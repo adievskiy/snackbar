@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Snackbar</string>
+    <string name="textSaveBTN">Сохранить данные</string>
+    <string name="textTextView">Поле для отображения</string>
+    <string name="textDeleteBTN">Удалить данные</string>
+</resources>
