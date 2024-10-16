@@ -1,6 +1,5 @@
 package com.example.snackbar
 
-import android.annotation.SuppressLint
 import android.os.Bundle
 import android.view.View
 import android.widget.EditText
@@ -31,7 +30,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun onClick(view: View) {
+    fun onClick() {
         textViewTV.text = editTextET.text.toString()
     }
 
