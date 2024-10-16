@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun onClick(view: View) {
-        textViewTV.text = editTextET.text
+        textViewTV.text = editTextET.text.toString()
     }
 
     fun onClickErase(view: View) {
